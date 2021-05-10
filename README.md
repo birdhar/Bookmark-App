@@ -9,8 +9,8 @@ It is known as the web storage API and allows us to store data on the client-sid
 
 ### How it works
 <ul>
-Add a new bookmark with the user’s typed name and a website link.</br>
-Enter the name and url of visiting the website</br>
-Deleting the bookmark </br>
-Then always save the bookmarks permanently on LocalStorage </br>
+<li>Add a new bookmark with the user’s typed name and a website link.</li>
+<li>Enter the name and url of visiting the website.</li>
+<li>Deleting the bookmark.</li>
+<li>Then always save the bookmarks permanently on LocalStorage.</li>
 </ul>
