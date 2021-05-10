@@ -14,3 +14,7 @@ It is known as the web storage API and allows us to store data on the client-sid
 <li>Deleting the bookmark.</li>
 <li>Then always save the bookmarks permanently on LocalStorage.</li>
 </ul>
+
+### Glimpses
+![Screenshot (37)](https://user-images.githubusercontent.com/26957756/117602399-334aef80-b16e-11eb-9283-268b32017fac.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/26957756/117602419-4cec3700-b16e-11eb-92cf-6649bfd1260a.png)
