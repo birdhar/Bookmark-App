@@ -8,7 +8,7 @@ This will help to store links to our favorite websites without working with any 
 It is known as the web storage API and allows us to store data on the client-side. Data in local storage is stored in form of strings and persists even after closing the session.  Data can only be removed if the user manually deletes it.  All the data stays on the client-side, thus there is a defined limitation regarding the length of the values, and we can currently store from 2 MB to 10 MB size of data depending upon the browser we use.
 
 ### How it works
-Add a new bookmark with the user’s typed name and a website link.
-Contain option of visiting the website
-Deleting the bookmark
-Then always save the bookmarks permanently on LocalStorage
+Add a new bookmark with the user’s typed name and a website link.</br>
+Enter the name and url of visiting the website</br>
+Deleting the bookmark </br>
+Then always save the bookmarks permanently on LocalStorage </br>
